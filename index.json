@@ -1,0 +1,132 @@
+{
+ "packages": [
+  {
+   "id": "aio-bip-danh-sach",
+   "name": "Tắt bíp khi cuộn danh sách",
+   "version": "1.0",
+   "desc": "Không kêu bíp khi xoay núm tới đầu/cuối danh sách (MZD-AIO)",
+   "reboot": "yes",
+   "url": "goi/aio-bip-danh-sach-1.0.cxpkg"
+  },
+  {
+   "id": "aio-bt-ket-noi-lai",
+   "name": "Tắt báo lỗi kết nối lại BT",
+   "version": "1.0",
+   "desc": "Tự đóng thông báo “Unable to reconnect Bluetooth audio” (MZD-AIO)",
+   "reboot": "yes",
+   "url": "goi/aio-bt-ket-noi-lai-1.0.cxpkg"
+  },
+  {
+   "id": "aio-cam-bien-trong",
+   "name": "Cảm biến đỗ xe trong suốt",
+   "version": "1.0",
+   "desc": "Hình cảm biến đỗ xe nền trong suốt, không che camera (MZD-AIO)",
+   "reboot": "yes",
+   "url": "goi/aio-cam-bien-trong-1.0.cxpkg"
+  },
+  {
+   "id": "aio-camera-lui",
+   "name": "Bỏ chữ cảnh báo camera lùi",
+   "version": "1.0",
+   "desc": "Xoá dòng chữ “Kiểm tra xung quanh…” trên hình camera lùi, mọi ngôn ngữ (MZD-AIO)",
+   "reboot": "yes",
+   "url": "goi/aio-camera-lui-1.0.cxpkg"
+  },
+  {
+   "id": "aio-chan-doan",
+   "name": "Mở nhanh menu chẩn đoán ẩn",
+   "version": "1.0",
+   "desc": "Giữ đồng hồ trên thanh trạng thái ~1 giây là vào Diagnostics (MZD-AIO)",
+   "reboot": "yes",
+   "url": "goi/aio-chan-doan-1.0.cxpkg"
+  },
+  {
+   "id": "aio-cuon-nhanh",
+   "name": "Cuộn danh sách nhanh",
+   "version": "1.0",
+   "desc": "Giữ núm để cuộn danh sách nhanh hơn ~5 lần (MZD-AIO “Shorter Delay”)",
+   "reboot": "yes",
+   "url": "goi/aio-cuon-nhanh-1.0.cxpkg"
+  },
+  {
+   "id": "aio-khung-anh-bia",
+   "name": "Bỏ khung ảnh bìa nhạc",
+   "version": "1.0",
+   "desc": "Bỏ khung viền quanh ảnh bìa bài hát / cuộc gọi (MZD-AIO)",
+   "reboot": "yes",
+   "url": "goi/aio-khung-anh-bia-1.0.cxpkg"
+  },
+  {
+   "id": "aio-logo-matrix",
+   "name": "Logo khởi động Matrix",
+   "version": "1.0",
+   "desc": "Đổi hoạt hình logo lúc bật màn hình sang kiểu Matrix (MZD-AIO)",
+   "reboot": "yes",
+   "url": "goi/aio-logo-matrix-1.0.cxpkg"
+  },
+  {
+   "id": "aio-logo-race",
+   "name": "Logo khởi động Race",
+   "version": "1.0",
+   "desc": "Đổi hoạt hình logo lúc bật màn hình sang kiểu Race (MZD-AIO)",
+   "reboot": "yes",
+   "url": "goi/aio-logo-race-1.0.cxpkg"
+  },
+  {
+   "id": "aio-tat-bip",
+   "name": "Tắt tiếng bíp khi bấm",
+   "version": "1.0",
+   "desc": "Tắt mọi tiếng bíp của giao diện khi bấm nút/màn hình (MZD-AIO “No More Beeps”)",
+   "reboot": "yes",
+   "url": "goi/aio-tat-bip-1.0.cxpkg"
+  },
+  {
+   "id": "sl-open",
+   "name": "Mở Speed Limit Warning",
+   "version": "1.0",
+   "desc": "Hiện mục Cài đặt > An toàn > Speed Limit Warning không cần thẻ SD",
+   "reboot": "yes",
+   "url": "goi/sl-open-1.0.cxpkg"
+  },
+  {
+   "id": "td-cam-ung",
+   "name": "Mở cảm ứng khi xe chạy",
+   "version": "1.0",
+   "desc": "Dùng màn hình cảm ứng cả khi xe đang chạy (bỏ khoá AtSpeed + NVRAM)",
+   "reboot": "yes",
+   "url": "goi/td-cam-ung-1.0.cxpkg"
+  },
+  {
+   "id": "td-disclaimer",
+   "name": "Tắt màn hình cảnh báo",
+   "version": "1.0",
+   "desc": "Màn hình cảnh báo lúc khởi động chỉ còn 0,1 giây (gốc 3,5 giây)",
+   "reboot": "yes",
+   "url": "goi/td-disclaimer-1.0.cxpkg"
+  },
+  {
+   "id": "test-ket-noi",
+   "name": "Thử kết nối Wi-Fi",
+   "version": "1.0",
+   "desc": "Gói thử: ghi 1 file nhỏ, không sửa hệ thống",
+   "reboot": "no",
+   "url": "goi/test-ket-noi-1.0.cxpkg"
+  },
+  {
+   "id": "viet-hoa",
+   "name": "Việt hoá giao diện",
+   "version": "1.0",
+   "desc": "Tiếng Việt ở mục English-AU: Cài đặt > Hệ thống > Ngôn ngữ > Tiếng Việt",
+   "reboot": "yes",
+   "url": "goi/viet-hoa-1.0.cxpkg"
+  },
+  {
+   "id": "vmlive-hud",
+   "name": "VietMap Live lên HUD",
+   "version": "1.0",
+   "desc": "Mũi tên, khoảng cách, tên đường, biển tốc độ VietMap Live lên HUD + app Vietmap HUD (bộ 2026 FIXED)",
+   "reboot": "yes",
+   "url": "goi/vmlive-hud-1.0.cxpkg"
+  }
+ ]
+}
